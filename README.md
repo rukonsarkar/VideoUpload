@@ -91,3 +91,6 @@ $list['video'] = $video;
 	mysqli_close($con);
 ?>
 ```
+নোটঃ PHP কোডের মধ্যে আপনার Database Name, User name, Password দিয়ে Repleace করে নিবেন!
+
+- [F R. RUKON SARKAR](https://www.facebook.com/programmerrukon/) - App Developer 
