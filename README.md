@@ -91,6 +91,6 @@ $list['video'] = $video;
 	mysqli_close($con);
 ?>
 ```
-নোটঃ PHP কোডের মধ্যে আপনার Database Name, User name, Password দিয়ে Repleace করে নিবেন!
+নোটঃ PHP কোডের মধ্যে আপনার Database Name, User name, Password দিয়ে Repleace করে নিবেন। আর ৫-১০ সেকেন্ডের ভিডিও দিয়ে চেক করুন। এটা শুধু Sample Code দেওয়া হয়েছে কিভাবে ভিডিও আপলোড করবেন সেটা বুঝানোর জন্য। 
 
 - [F R. RUKON SARKAR](https://www.facebook.com/programmerrukon/) - App Developer 
