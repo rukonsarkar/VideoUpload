@@ -9,7 +9,7 @@
 
 ![filemanager](https://github.com/user-attachments/assets/37071f2d-6f8c-4c2c-9db6-7689a3e919f2)
 
-৪) **upload_video.php** Code: এই কোডের মাধ্যমে সার্ভারে ভিডিও আপলোড করা হয়েছেঃ
+> ৪) **upload_video.php** Code: এই কোডের মাধ্যমে সার্ভারে ভিডিও আপলোড করা হয়েছেঃ
 ```
 <?php
  $con = mysqli_connect('localhost', 'teqleoch_sms_user', 'Sms@2001$', 'teqleoch_sms_db');
@@ -37,7 +37,8 @@ if($ACTION == "action"){
 }
 ?>
 ```
-5) **get_video.php** Code: এই কোডের মাধ্যমে সার্ভার থেকে লাস্ট ভিডিও Retrive করে অ্যাপের মধ্যে আনা হয়েছেঃ 
+
+> 5) **get_video.php** Code: এই কোডের মাধ্যমে সার্ভার থেকে লাস্ট ভিডিও Retrive করে অ্যাপের মধ্যে আনা হয়েছেঃ 
 ```
 <?php
 header('Content-Type: application/json; charset=utf-8');
